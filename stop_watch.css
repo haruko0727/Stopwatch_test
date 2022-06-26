@@ -1,0 +1,11 @@
+#timer {
+ margin-bottom: 20px;
+ font-size: 30px;
+ letter-spacing: 5px;
+}
+.buttons {
+    display: flex;
+}
+.button {
+    margin:3px;
+}
