@@ -9,3 +9,6 @@
 .button {
     margin:3px;
 }
+.inactive {
+    opacity: 0.6;
+}
