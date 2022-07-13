@@ -1,14 +1,14 @@
-#timer {
- margin-bottom: 20px;
- font-size: 30px;
- letter-spacing: 5px;
-}
-.buttons {
+  #timer {
+    margin-bottom: 20px;
+    font-size: 30px;
+    letter-spacing: 5px;
+  }
+  .buttons {
     display: flex;
-}
-.button {
+  }
+  .button {
     margin:3px;
-}
-.inactive {
+  }
+  .inactive {
     opacity: 0.6;
-}
+  }
